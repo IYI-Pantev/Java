@@ -3,6 +3,9 @@ import java.util.Arrays;
 public class Main {
     public static void main(String[] args) {
 
+        Jumu doggo = new Jumu();
+        doggo.dogSay();
+
         // --- 1. Declare and initialize an array ---
         String[] fruits = {"apple", "orange", "banana"};
 
